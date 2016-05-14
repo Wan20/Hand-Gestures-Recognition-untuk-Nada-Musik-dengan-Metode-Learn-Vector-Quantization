@@ -6,6 +6,8 @@ Gesture Recognition is a movement that aims to interpret human movement through 
 Kata Kunci : Gesture Recognition, Hand Gestures, Webcam, Learn Vector Quantization, Image Processing
 
 
+![alt tag] (https://github.com/Wan20/MyApps/blob/Poster/Poster.jpg)
+
 ### Literature
 [1] Chapman, S. J. 2013. MATLAB Programming with Applications for Engineers. Cengage Learning, Boston. 2-3.
 
